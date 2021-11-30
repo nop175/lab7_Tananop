@@ -1,4 +1,3 @@
-Pkg Ton
 #include<iostream>
 
 using namespace std;
